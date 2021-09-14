@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-[kipsang01](https://github.com/kipsang01)
+- [kipsang01](https://github.com/kipsang01)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
